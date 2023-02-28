@@ -159,4 +159,3 @@ if __name__ == "__main__":
         json.dump(args.__dict__, f, indent=2)
 
     train(args)
-    
